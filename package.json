@@ -20,7 +20,7 @@
     "bcryptjs": "^2.4.3",
     "client-sessions": "^0.8.0",
     "express": "^4.17.1",
-    "markdown-it": "^11.0.0",
+    "markdown-it": "^12.3.2",
     "markdown-it-emoji": "^1.4.0",
     "markdown-it-highlightjs": "^3.1.0",
     "markdown-it-latex": "^0.2.0",
